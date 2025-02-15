@@ -13,7 +13,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crisbeloneto&show_icons=true&locale=en&layout=compact&theme=radical" alt="crisbeloneto" />
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages, Tools and Frameworks:</h3>
+
 <p align="left"> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
