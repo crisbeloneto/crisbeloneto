@@ -35,9 +35,6 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer" title="Spring">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
-  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer" title="REST APIs">
-    <img src="https://github.com/user-attachments/assets/9dfd786d-5d32-4508-9c06-1e76a894b295" alt="REST API" width="50" height="50"/>
-  </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer" title="Postman">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
