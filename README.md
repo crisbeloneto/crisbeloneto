@@ -17,7 +17,7 @@
 
 <p align="left"> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a>
   <!--
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
@@ -25,7 +25,7 @@
   </a>
   -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer" title="Java SE & Jakarta EE"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
   <!--
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -33,10 +33,10 @@
   </a>
   -->
   <a href="https://spring.io/" target="_blank" rel="noreferrer" title="Spring">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer" title="Postman">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
   </a>
   <!--
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
@@ -47,7 +47,7 @@
   </a>
   -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
   <!--
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -63,7 +63,7 @@
   </a>
   -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="Reactjs">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
   <!--
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
@@ -74,7 +74,7 @@
     <img src="https://github.com/prplx/svg-logos/blob/master/svg/TailwindCSS-Alt.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
   </a>
   <!--
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
