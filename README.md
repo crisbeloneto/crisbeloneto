@@ -8,6 +8,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crisbeloneto" alt="crisbeloneto" /></a> </p>
 -->
 
+[![committers.top badge](https://user-badge.committers.top/angola_public/crisbeloneto.svg)](https://user-badge.committers.top/angola_public/crisbeloneto)
+<br>
+[![committers.top badge](https://user-badge.committers.top/angola/crisbeloneto.svg)](https://user-badge.committers.top/angola/crisbeloneto)
+
 <div align="center">  
 <img src="https://github-readme-stats.vercel.app/api?username=crisbeloneto&show_icons=true&count_private=false&locale=en&theme=radical" alt="crisbeloneto" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crisbeloneto&show_icons=true&locale=en&layout=compact&theme=radical" alt="crisbeloneto" />
