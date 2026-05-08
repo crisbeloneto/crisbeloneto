@@ -16,7 +16,7 @@
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=crisbeloneto&show_icons=true&count_private=false&locale=en&theme=radical" alt="crisbeloneto's GitHub Stats" />
 -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=crisbeloneto&show_icons=true&count_private=false&locale=en&theme=radical&include_all_commits=true&hide_border=true&bg_color=0d1117" alt="crisbeloneto's GitHub Stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=crisbeloneto&show_icons=true&count_private=false&locale=en&theme=radical&include_all_commits=false&hide_border=true&bg_color=0d1117" alt="crisbeloneto's GitHub Stats"/>
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crisbeloneto&show_icons=true&locale=en&layout=compact&theme=radical" alt="crisbeloneto's Top Langs" />
 -->
